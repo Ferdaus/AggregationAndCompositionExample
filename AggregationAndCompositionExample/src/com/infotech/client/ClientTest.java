@@ -11,8 +11,8 @@ import com.infotech.model.Person;
 public class ClientTest {
 
 	public static void main(String[] args) {
-		aggregationDemo();
-		//compositionDemo();
+		//aggregationDemo();
+		compositionDemo();
 	}
 
 	@SuppressWarnings("unused")

@@ -8,6 +8,7 @@ public class Employee {
 	private int age;
 	
 	//Aggregation Java example
+	//is that all the difference between aggregation and Composition?
 	private Address address;
 	
 	public String getEmpId() {
